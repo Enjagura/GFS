@@ -1,2 +1,2 @@
-# GFS
+# GFS - WI
 GFS Wirtschaftsinformatik
