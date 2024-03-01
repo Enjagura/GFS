@@ -9,6 +9,7 @@ Welchen Vorteil hat die Verwendung eines Entwurfsmusters (Design Patterns) in Ja
 2. [Hauptteil](#Hauptteil)
 3. [Schluss](#Schluss)
 4. [Eingebaute Elemente](#Eingebaute-Elemente)
+5. [Quellen](#Quellen)
 
 ## <h2>Einleitung</h2>
 1. <strong>Definition von Entwurfsmustern</strong></br>
@@ -43,3 +44,7 @@ Welchen Vorteil hat die Verwendung eines Entwurfsmusters (Design Patterns) in Ja
 2. <strong>Interaktives Element</strong></br>
 ⠀⠀⠀- Kahoot
 ⠀⠀⠀- Zuhöhrer den Code von einem Programm mit Struktur Elementen und einem ohne, vergleichen lassen
+
+## <h2>Quellen</h2>
+<strong>Quellen, welche sich möglicherweise nutzen lassen</strong></br>
+- https://refactoring.guru/design-patterns/java
