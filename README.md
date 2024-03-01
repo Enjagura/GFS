@@ -10,7 +10,7 @@ Welchen Vorteil hat die Verwendung eines Entwurfsmusters (Design Patterns) in Ja
 3. [Schluss](#Schluss)
 4. [Eingebaute Elemente](#Eingebaute-Elemente)
 
-# <h2>Einleitung</h2>
+## <h2>Einleitung</h2>
 1. <strong>Definition von Entwurfsmustern</strong></br>
 ⠀⠀⠀- Was sind Entwurfsmuster </br>
 ⠀⠀⠀⠀⠀⠀--> Gute Lösung für häufig auftretende Probleme in der Softwareetwicklung
