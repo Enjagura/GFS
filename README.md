@@ -23,3 +23,10 @@ Welchen Vorteil hat die Verwendung eines Entwurfsmusters (Design Patterns) in Ja
 3. <strong>Beispiele in Java</strong></br>
 ⠀⠀⠀- Soll anhand von einem/zwei eigenen Beispielen gezeigt werden </br>
 ⠀⠀⠀⠀⠀⠀--> Anwendungsfälle, klareren und effizienteren Code zeigen (Unterschiede)
+
+# <h2>Schluss</h2>
+1. <strong>Zusammenfassung</strong></br>
+⠀⠀⠀- Zusammenfassung </br>
+⠀⠀⠀⠀⠀⠀--> Kurz alles verständlich zusammenfassen
+2. <strong>Eventueller Ausblick</strong></br>
+⠀⠀⠀- Mögliche Weiterentwicklungen von Entwurfsmustern und wie sie die Softwareentwicklung beeinflussen können
