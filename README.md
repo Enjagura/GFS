@@ -30,3 +30,13 @@ Welchen Vorteil hat die Verwendung eines Entwurfsmusters (Design Patterns) in Ja
 ⠀⠀⠀⠀⠀⠀--> Kurz alles verständlich zusammenfassen
 2. <strong>Eventueller Ausblick</strong></br>
 ⠀⠀⠀- Mögliche Weiterentwicklungen von Entwurfsmustern und wie sie die Softwareentwicklung beeinflussen können
+
+## Inhaltsverzeichnis
+1. [Was sind Entwurfsmuster?](#was-sind-entwurfsmuster)
+2. [Warum sind Entwurfsmuster wichtig?](#warum-sind-entwurfsmuster-wichtig)
+3. [Arten von Entwurfsmustern](#arten-von-entwurfsmustern)
+4. [Vorteile der Verwendung von Entwurfsmustern in Java](#vorteile-der-verwendung-von-entwurfsmustern-in-java)
+5. [Beispiele](#beispiele)
+6. [Wie dieses Repository nutzen](#wie-dieses-repository-nutzen)
+7. [Mitwirken](#mitwirken)
+8. [Lizenz](#lizenz)
