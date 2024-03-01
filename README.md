@@ -11,8 +11,6 @@ Welchen Vorteil hat die Verwendung eines Entwurfsmusters (Design Patterns) in Ja
 2. <strong>Bedeutung in der Softwareentwicklung</strong></br>
 ⠀⠀⠀- Wichtig für sauberen, wartbaren Code
 
-</br></br>
-
 # <h2>Einleitung</h2>
 1. <strong>Definition von Entwurfsmustern</strong></br>
 ⠀⠀⠀- Was sind Entwurfsmuster </br>
