@@ -17,7 +17,7 @@ Welchen Vorteil hat die Verwendung eines Entwurfsmusters (Design Patterns) in Ja
 2. <strong>Bedeutung in der Softwareentwicklung</strong></br>
 ⠀⠀⠀- Wichtig für sauberen, wartbaren Code
 
-# <h2>Hauptteil</h2>
+## <h2>Hauptteil</h2>
 1. <strong>Arten von Entwurfsmustern</strong></br>
 ⠀⠀⠀- Grundlegende Entwurfsmuster vorstellen </br>
 ⠀⠀⠀⠀⠀⠀--> beispielsweise Singleton, Factory, Observer, etc.
@@ -30,14 +30,14 @@ Welchen Vorteil hat die Verwendung eines Entwurfsmusters (Design Patterns) in Ja
 ⠀⠀⠀- Soll anhand von einem/zwei eigenen Beispielen gezeigt werden </br>
 ⠀⠀⠀⠀⠀⠀--> Anwendungsfälle, klareren und effizienteren Code zeigen (Unterschiede)
 
-# <h2>Schluss</h2>
+## <h2>Schluss</h2>
 1. <strong>Zusammenfassung</strong></br>
 ⠀⠀⠀- Zusammenfassung </br>
 ⠀⠀⠀⠀⠀⠀--> Kurz alles verständlich zusammenfassen
 2. <strong>Eventueller Ausblick</strong></br>
 ⠀⠀⠀- Mögliche Weiterentwicklungen von Entwurfsmustern und wie sie die Softwareentwicklung beeinflussen können
 
-# <h2>Eingebaute-Elemente</h2>
+## <h2>Eingebaute-Elemente</h2>
 1. <strong>Praxis Beispiele</strong></br>
 ⠀⠀⠀- Eigenes Programm, an dem man kurz ein Strukturelement erklären kann </br>
 2. <strong>Interaktives Element</strong></br>
