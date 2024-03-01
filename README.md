@@ -36,3 +36,10 @@ Welchen Vorteil hat die Verwendung eines Entwurfsmusters (Design Patterns) in Ja
 ⠀⠀⠀⠀⠀⠀--> Kurz alles verständlich zusammenfassen
 2. <strong>Eventueller Ausblick</strong></br>
 ⠀⠀⠀- Mögliche Weiterentwicklungen von Entwurfsmustern und wie sie die Softwareentwicklung beeinflussen können
+
+# <h2>Eingebaute-Elemente</h2>
+1. <strong>Praxis Beispiele</strong></br>
+⠀⠀⠀- Eigenes Programm, an dem man kurz ein Strukturelement erklären kann </br>
+2. <strong>Interaktives Element</strong></br>
+⠀⠀⠀- Kahoot
+⠀⠀⠀- Zuhöhrer den Code von einem Programm mit Struktur Elementen und einem ohne, vergleichen lassen
