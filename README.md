@@ -42,7 +42,7 @@ Welchen Vorteil hat die Verwendung eines Entwurfsmusters (Design Patterns) in Ja
 1. <strong>Praxis Beispiele</strong></br>
 ⠀⠀⠀- Eigenes Programm, an dem man kurz ein Strukturelement erklären kann </br>
 2. <strong>Interaktives Element</strong></br>
-⠀⠀⠀- Kahoot
+⠀⠀⠀- Kahoot </br>
 ⠀⠀⠀- Zuhöhrer den Code von einem Programm mit Struktur Elementen und einem ohne, vergleichen lassen
 
 ## <h2>Quellen</h2>
