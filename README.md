@@ -15,5 +15,5 @@ Welchen Vorteil hat die Verwendung eines Entwurfsmusters (Design Patterns) in Ja
 1. <strong>Arten von Entwurfsmustern</strong></br>
 ⠀⠀⠀- Grundlegende Entwurfsmuster vorstellen </br>
 ⠀⠀⠀⠀⠀⠀--> beispielsweise Singleton, Factory, Observer, etc.
-2. <strong>Vorteile der verwendung von Entwurfsmustern</strong>
+2. <strong>Vorteile der verwendung von Entwurfsmustern</strong></br>
 ⠀⠀⠀- Wiederverwendbarkeit: </br>⠀⠀⠀⠀⠀⠀Können mehrfach verwendet werden, was sehr viel Entwicklungszeit spart
