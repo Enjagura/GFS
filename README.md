@@ -20,3 +20,6 @@ Welchen Vorteil hat die Verwendung eines Entwurfsmusters (Design Patterns) in Ja
 ⠀⠀⠀- Wartbarkeit: </br>⠀⠀⠀⠀⠀⠀--> Code kann leichter gewartet und aktualisiert werden.</br>
 ⠀⠀⠀- Skalierbarkeit: </br>⠀⠀⠀⠀⠀⠀--> Anwendungen sind gut Skalierbar, da sie auf bewährten Konzepten basiert.</br>
 ⠀⠀⠀- Lesbarkeit: </br>⠀⠀⠀⠀⠀⠀--> Verbessern die Lesbarkeit, da sie eine einheitliche und übersichtliche Lösung bieten.</br>
+3. <strong>Beispiele in Java</strong></br>
+⠀⠀⠀- Soll anhand von einem/zwei eigenen Beispielen gezeigt werden </br>
+⠀⠀⠀⠀⠀⠀--> Anwendungsfälle, klareren und effizienteren Code zeigen (Unterschiede)
