@@ -4,12 +4,12 @@ GFS Wirtschaftsinformatik
 Thema der GFS: </br>
 Welchen Vorteil hat die Verwendung eines Entwurfsmusters (Design Patterns) in Java?
 
-## Inhaltsverzeichnis - Konzept
-1. [Einleitung](./java)
+## Inhaltsverzeichnis
+1. [Konzept](./konzept)
 2. [Hauptteil](#Hauptteil)
 3. [Schluss](#Schluss)
-4. [Eingebaute Elemente](#Eingebaute-Elemente)
-5. [Quellen](#Quellen)
+4. [Java Entwurfsmuster](./java)
+5. [Quellen](./quellen)
 
 ## <h2>Einleitung</h2>
 1. <strong>Definition von Entwurfsmustern</strong></br>
