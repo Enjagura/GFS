@@ -2,7 +2,7 @@
 GFS Wirtschaftsinformatik - Einleitung
 
 ## <h2>Entwurfsmuster (Design patterns)</h2>
-1. <strong>Definition von Entwurfsmustern</strong></br>
+1. <strong>Definition von Entwurfsmustern</strong>
 <ul>
   <li>Entwurfsmuster (Design patterns) sind Lösungsansätzen für immer wiederkehrende Probleme in der Softwareentwicklung und -architektur. Diese Entwurfsmuster bieten eine strukturierte Herangehensweise zur Gestaltung, Flexibilität, Wartbarkeit und Wiederverwendbarkeit eines codes.</li>
 </ul>
