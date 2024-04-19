@@ -28,5 +28,5 @@ GFS Wirtschaftsinformatik - Hauptteil
   <li>Visitor Pattern</li>
 </ul>
 
-<strong>(1) </strong> nachprogrammiert unter [/java/adapter](./ausarbeitung/einleitung) </br>
-<strong>(2) </strong> nachprogrammiert unter [/java/bridge](./ausarbeitung/einleitung)
+<strong>(1) </strong> nachprogrammiert unter [/java/adapter](https://github.com/Enjagura/GFS/tree/main/java/adapter) </br>
+<strong>(2) </strong> nachprogrammiert unter [/java/bridge](https://github.com/Enjagura/GFS/tree/main/java/bridge)
