@@ -52,3 +52,13 @@ GFS Wirtschaftsinformatik - Hauptteil
       <li>Weiter helfen Entwurfsmuster bei einer übersichtlichen Darstellung des Codes. Verschiede Funktionen und Klassen können so einfach formatiert undübersichtlich in wenigen Zeilen dargestellt werden.</li>
    </ul></li>
 </ol>
+
+## <h2>Beispiele von Entwurfsmustern in Java</h2>
+Eine genaue Beschreibung und Erklärung zu den jeweiligen Entwursmustern befindet sich direkt in deren Ordnern (README.md).</br></br>
+
+Dargestellt habe ich die verwendung von Entwurfsmustern anhand von zwei verschiedenen, kleinen Anwendungen.
+Eine von diesen ist eine Bridge, zur Einbindung von verschiedenen Geräten. 
+Die Zweite Anwendung ist ein Adapter-Muster, um zu überprüfen, ob verschiedene Objkete kompatibel sind. </br></br>
+Aufrufbar sind die Anwendungen unter diesen Verknüpfungen: </br>
+[/java/bridge](https://github.com/Enjagura/GFS/tree/main/java/bridge) </br>
+[/java/adapter](https://github.com/Enjagura/GFS/tree/main/java/adapter)
