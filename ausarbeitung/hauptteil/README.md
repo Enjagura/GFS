@@ -1,5 +1,5 @@
 # GFS - WI - HAUPTTEIL
-GFS Wirtschaftsinformatik - Einleitung
+GFS Wirtschaftsinformatik - Hauptteil
 
 ## <h2>Verschiedene Arten von Entwurfsmustern (Design patterns)</h2>
 <strong>Entwurfsmuster lassen sich in drei verschiedene Arten unterteilen:</strong>
