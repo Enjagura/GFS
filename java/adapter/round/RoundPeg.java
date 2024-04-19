@@ -1,4 +1,4 @@
-package refactoring_guru.adapter.example.round;
+package adapter.round;
 
 /**
  *  Runde Objekte sind mit runden Löchern kompatibel
