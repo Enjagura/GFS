@@ -6,8 +6,8 @@ Welchen Vorteil hat die Verwendung eines Entwurfsmusters (Design Patterns) in Ja
 
 ## Inhaltsverzeichnis
 1. [Konzept](./konzept)
-2. [Hauptteil](#Hauptteil)
-3. [Schluss](#Schluss)
+2. [Hauptteil (nicht fertig)](#Hauptteil)
+3. [Schluss (nicht fertig)](#Schluss)
 4. [Java Entwurfsmuster](./java)
 5. [Quellen](./quellen)
 
