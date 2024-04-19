@@ -10,7 +10,7 @@ Welchen Vorteil hat die Verwendung eines Entwurfsmusters (Design Patterns) in Ja
 3. [Hauptteil (nicht fertig)](./ausarbeitung/hauptteil)
 4. [Schluss (nicht fertig)](./ausarbeitung/schluss)
 5. [Java Entwurfsmuster](./java)
-6. [Quellen](./quellen)
+6. [Quellen](./ausarbeitung/quellen)
 
 ## <h2>Info</h2>
 Alle Sachen sind in den jeweiligen Ordnern. Um sie aufzurufen, am besten das Inhaltsverzeichniss nutzen und auf die entsprechenden Punkte klicken.
