@@ -5,7 +5,7 @@ Thema der GFS: </br>
 Welchen Vorteil hat die Verwendung eines Entwurfsmusters (Design Patterns) in Java?
 
 ## Inhaltsverzeichnis - Konzept
-1. [Einleitung](#Einleitung)
+1. [Einleitung](./java)
 2. [Hauptteil](#Hauptteil)
 3. [Schluss](#Schluss)
 4. [Eingebaute Elemente](#Eingebaute-Elemente)
