@@ -1,4 +1,4 @@
-package adapter;
+package adapters;
 
 import adapter.round.RoundPeg;
 import adapter.square.SquarePeg;
