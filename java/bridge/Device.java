@@ -1,4 +1,4 @@
-package xyz;
+package bridge;
 
 public interface Device 
 {
