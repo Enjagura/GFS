@@ -1,4 +1,4 @@
-package xyz;
+package bridge;
 
 public class Radio implements Device
 {
