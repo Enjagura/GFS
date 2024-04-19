@@ -1,6 +1,6 @@
 package xyz;
 
-public class radio implements Device
+public class Radio implements Device
 {
     private boolean on = false;
     private int volume = 30;
