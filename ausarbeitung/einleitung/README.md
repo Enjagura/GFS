@@ -1,5 +1,5 @@
-# GFS - WI - EINLEITUNG
-GFS Wirtschaftsinformatik - Einleitung
+# GFS - WI - DEFINITION & BEDEUTUNG
+GFS Wirtschaftsinformatik - Definition & Bedeutung
 
 ## <h2>Entwurfsmuster (Design patterns)</h2>
 <strong>Definition von Entwurfsmustern</strong>
