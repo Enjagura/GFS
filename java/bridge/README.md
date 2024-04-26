@@ -7,4 +7,4 @@ GFS Wirtschaftsinformatik - Entwurfsmuster - Bridge
 3. [Tv.java](./Tv.java)
 
 ## <h2>Bridge</h2>
-...
+Die Bridge befindet sich inder [Device.java](./Device.java) Datei. Dort wird ein Standart, welcher von allen gezeigten Geräten verwendet werden kann definiert.
