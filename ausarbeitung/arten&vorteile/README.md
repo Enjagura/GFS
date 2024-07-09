@@ -60,5 +60,5 @@ Dargestellt habe ich die verwendung von Entwurfsmustern anhand von zwei verschie
 Eine von diesen ist eine Bridge, zur Einbindung von verschiedenen Geräten. 
 Die Zweite Anwendung ist ein Adapter-Muster, um zu überprüfen, ob verschiedene Objkete kompatibel sind. </br></br>
 Aufrufbar sind die Anwendungen unter diesen Verknüpfungen: </br>
-(1) [/java/bridge](https://github.com/Enjagura/GFS/tree/main/java/bridge) </br>
-(2) [/java/adapter](https://github.com/Enjagura/GFS/tree/main/java/adapter)
+(1) [/java/adapter](https://github.com/Enjagura/GFS/tree/main/java/adapter) </br>
+(2) [/java/bridge](https://github.com/Enjagura/GFS/tree/main/java/bridge)
