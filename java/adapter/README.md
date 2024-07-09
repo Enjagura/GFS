@@ -12,5 +12,5 @@ GFS Wirtschaftsinformatik - Entwurfsmuster - Adapter
 Beispiel Adapter befindet sich in [Demo.java](./Demo.java). 
 </br></br>
 Das Adapter Pattern ermöglicht die Zusammenarbeit von Klassen, die aufgrund inkompatibler Schnittstellen nicht zusammenarbeiten können. Es übersetzt die Schnittstelle einer Klasse in eine andere Schnittstelle, die von den Clients erwartet wird.
-</br>
+</br></br>
 In diesem Beispiel werden quadratische Objekte mit runden Objekten kompatibel gemacht, so dass ein quadratische Objekt in ein rundes Loch passt.
