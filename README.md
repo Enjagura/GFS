@@ -9,7 +9,7 @@ Welchen Vorteil hat die Verwendung eines Entwurfsmusters (Design Patterns) in Ja
 2. [Definition & Bedeutung](./ausarbeitung/definition&bedeutung)
 3. [Arten & Vorteile](./ausarbeitung/arten&vorteile)
 4. [Schluss (nicht fertig)](./ausarbeitung/schluss)
-5. [Java Entwurfsmuster (README.md fehlt noch)](./java)
+5. [Java Entwurfsmuster](./java)
 6. [Quellen](./ausarbeitung/quellen)
 
 ## <h2>Info</h2>
