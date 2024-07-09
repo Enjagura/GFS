@@ -2,7 +2,7 @@
 GFS Wirtschaftsinformatik - Entwurfsmuster
 
 ## Inhaltsverzeichnis - Beispiele Entwurfsmuster
-1. [Bridge (README.md fehlt)](./bridge)
+1. [Bridge](./bridge)
 2. [Adapter (README.md fehlt)](./adapter)
 
 ## <h2>Info</h2>
