@@ -10,3 +10,5 @@ GFS Wirtschaftsinformatik - Entwurfsmuster - Bridge
 Die Bridge befindet sich inder [Device.java](./Device.java) Datei. Dort wird ein Standart, welcher von allen gezeigten Geräten verwendet werden kann definiert.
 </br></br>
 Das Bridge Pattern trennt die Abstraktion (was etwas tut) von der Implementierung (wie es gemacht wird), sodass beide unabhängig voneinander geändert werden können. Dadurch wird der Code flexibler, da die abstrakten und konkreten Teile voneinander getrennt sind.
+</br></br>
+Eingesetzt wird das Bridge Pattern, wenn die Struktur des entwickelten Codes flexibler gestaltet werden soll und Abstraktion und Implementierung unabhängig voneinander weiterentwickelt werden sollen.
