@@ -11,21 +11,21 @@ GFS Wirtschaftsinformatik - Arten & Vorteile
 
 <strong>Erzeugungsmuster (Creational Patterns):</strong>
 <ul>
-  <li>Factory Method Pattern (Erzeugung von Objekten einer Methode, deren genaue Klasse erst zur Laufzeit festgelegt wird)</li>
-  <li>Builder Pattern (Schrittweise Konstruktion von komplizierten Objekten durch mehrere Builder-Klassen)</li>
-  <li>Prototype Pattern (Erzeugung von Objekten durch Kopieen von vorhandenen Prototyp-Objekten)</li>
+  <li>Factory Method Pattern -- (Erzeugung von Objekten einer Methode, deren genaue Klasse erst zur Laufzeit festgelegt wird)</li>
+  <li>Builder Pattern -- (Schrittweise Konstruktion von komplizierten Objekten durch mehrere Builder-Klassen)</li>
+  <li>Prototype Pattern -- (Erzeugung von Objekten durch Kopieen von vorhandenen Prototyp-Objekten)</li>
 </ul>
 <strong>Strukturmuster (Structural Patterns):</strong>
 <ul>
-  <li>Facade Pattern (Einfache Schnittstelle zu komplexen System von Klassen)</li>
-  <li>Adapter Pattern (Passt Schnittstellen von Klassen zu einander an) <strong>(1)</strong></li>
-  <li>Bridge Pattern (Trennung von Abstraktion und Implementierung, so dass beides unabhängig voneinander geändert werden kann) <strong>(2)</strong></li>
+  <li>Facade Pattern -- (Einfache Schnittstelle zu komplexen System von Klassen)</li>
+  <li>Adapter Pattern -- (Passt Schnittstellen von Klassen zu einander an) <strong>(1)</strong></li>
+  <li>Bridge Pattern -- (Trennung von Abstraktion und Implementierung, so dass beides unabhängig voneinander geändert werden kann) <strong>(2)</strong></li>
 </ul>
 <strong>Verhaltensmuster (Behavioral Patterns):</strong>
 <ul>
-  <li>Observer Pattern (Ermöglicht es einem Objekt, automatisch alle seine abhängigen Objekte zu benachrichtigen, wenn sich sein Zustand ändert)</li>
-  <li>State Pattern (Ermöglicht Objekten ihr Verhalten zu ändern, wenn der interne Zustand sich ändert)</li>
-  <li>Visitor Pattern (Trennt Algorithmen von den Objektdatenstrukturen, über die sie operieren, und ermöglicht so das Hinzufügen neuer Operationen ohne Änderung der Datenstrukturen)</li>
+  <li>Observer Pattern -- (Ermöglicht es einem Objekt, automatisch alle seine abhängigen Objekte zu benachrichtigen, wenn sich sein Zustand ändert)</li>
+  <li>State Pattern -- (Ermöglicht Objekten ihr Verhalten zu ändern, wenn der interne Zustand sich ändert)</li>
+  <li>Visitor Pattern -- (Trennt Algorithmen von den Objektdatenstrukturen, über die sie operieren, und ermöglicht so das Hinzufügen neuer Operationen ohne Änderung der Datenstrukturen)</li>
 </ul>
 
 <strong>(1) </strong> Nachprogrammiert unter [/java/adapter](https://github.com/Enjagura/GFS/tree/main/java/adapter) </br>
